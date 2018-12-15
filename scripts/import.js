@@ -226,7 +226,7 @@ console.log('before timeout')
 setTimeout(() => {
     __webpack_require__.e(/*! import() | a */ "a").then(__webpack_require__.bind(null, /*! ./a */ "./src/a.js")).then(({ default: a }) => a())
     console.log('after import')
-}, 3000)
+}, 2000)
 
 
 /***/ })
