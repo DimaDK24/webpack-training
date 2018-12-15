@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/a.js"],"names":[],"mappings":";;;;;;;;;;AAAA;AAAA;AACA;AACA;;AAEA;AACe,gEAAC","file":"scripts/a.js","sourcesContent":["function a() {\r\n    console.log('a is called')\r\n}\r\n\r\nconsole.log('a is imported')\r\nexport default a\r\n"],"sourceRoot":""}
