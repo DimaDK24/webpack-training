@@ -1,5 +1,5 @@
 {
-  "name": "webpack-training-tree-shaking",
+  "name": "webpack-training",
   "version": "1.0.0",
   "description": "Training repo for better presentation",
   "main": "index.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DimaDK24/webpack-training-tree-shaking.git"
+    "url": "git+https://github.com/DimaDK24/webpack-training.git"
   },
   "author": "DimaDK24",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DimaDK24/webpack-training-tree-shaking/issues"
+    "url": "https://github.com/DimaDK24/webpack-training/issues"
   },
-  "homepage": "https://github.com/DimaDK24/webpack-training-tree-shaking#readme",
+  "homepage": "https://github.com/DimaDK24/webpack-training#readme",
   "devDependencies": {
     "webpack": "^4.26.1",
     "webpack-cli": "^3.1.2"
